@@ -6,4 +6,4 @@ Welcome to my portfolio repository! This repository contains the source code for
 
 
 
-Thank you for visiting my portfolio repository! For a more interactive experience, please visit [my portfolio website](https://leo7736.github.io/).
+Thank you for visiting my portfolio repository! For a more interactive experience, please visit [my portfolio website](https://leo7736.github.io/)
